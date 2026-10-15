@@ -1,1 +1,4 @@
 # Versionshantering-och-strategier-med-Git
+Kursen ger den studerande kunskaper om grunder i samarbetsformer och versionshantering med verktygen Git och Github i Linuxmiljö, två verktyg som är fundamentala i varje utvecklares arsenal. I Linuxmiljön kommer de att få lära sig hur de delar arbete med varandra, se vart i processen de är och att hålla koll på uppdateringar och versioner samt livslängd på mjukvaran. 
+
+ Kursen ger dessutom en introduktion till agil utveckling, något som rimmar väldigt väl med Git och Github. De studerande får här en grundläggande förståelse för främst Scrum, ett agilt ramverk som de kommer att fortsätta arbeta med under resten av utbildningen och i yrkeslivet. 
